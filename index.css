@@ -1,0 +1,37 @@
+.cab {
+    width: 95%;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: aqua;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+#subCab {
+    width: 95%;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: darkblue;
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+}
+a:link{
+    color: black;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: white;
+    background-color: black;
+}
+a:active {
+    color: green;
+}
+body {
+    background-color: blueviolet;
+}
